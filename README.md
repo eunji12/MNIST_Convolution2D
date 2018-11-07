@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=fufBwXbWD_M
+
 # MNIST_Convolution2D
 Keras/Tensorflow 2D Convolutional MNIST Classifier. See it in [Action](https://www.youtube.com/watch?v=fufBwXbWD_M).
 
